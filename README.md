@@ -1,5 +1,6 @@
 # fivem-kick
 kick player on a style
+Author: Sijan Dhakal
 
 
 Simple drag and drop resource
